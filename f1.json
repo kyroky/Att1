@@ -1,0 +1,837 @@
+[ {
+  "playerId" : 1,
+  "nickname" : "Player_1",
+  "skins" : [ {
+    "id" : 111,
+    "name" : "FEAR",
+    "cost" : 7233,
+    "playerId" : 1
+  } ],
+  "gameHistory" : [ {
+    "id" : 111,
+    "kill" : 19,
+    "deaths" : 32,
+    "assists" : 41,
+    "playerId" : 1
+  }, {
+    "id" : 112,
+    "kill" : 40,
+    "deaths" : 27,
+    "assists" : 21,
+    "playerId" : 1
+  }, {
+    "id" : 113,
+    "kill" : 48,
+    "deaths" : 45,
+    "assists" : 48,
+    "playerId" : 1
+  } ],
+  "agents" : [ {
+    "id" : 111,
+    "name" : "SOVA",
+    "gameHours" : 125,
+    "numberGames" : 117,
+    "playerId" : 1
+  }, {
+    "id" : 112,
+    "name" : "FINKA",
+    "gameHours" : 32,
+    "numberGames" : 487,
+    "playerId" : 1
+  }, {
+    "id" : 113,
+    "name" : "CHESS",
+    "gameHours" : 752,
+    "numberGames" : 189,
+    "playerId" : 1
+  }, {
+    "id" : 114,
+    "name" : "SKYE",
+    "gameHours" : 967,
+    "numberGames" : 459,
+    "playerId" : 1
+  }, {
+    "id" : 115,
+    "name" : "BRIMSTONE",
+    "gameHours" : 87,
+    "numberGames" : 171,
+    "playerId" : 1
+  }, {
+    "id" : 116,
+    "name" : "CYPHER",
+    "gameHours" : 489,
+    "numberGames" : 292,
+    "playerId" : 1
+  }, {
+    "id" : 117,
+    "name" : "CYPHER",
+    "gameHours" : 93,
+    "numberGames" : 267,
+    "playerId" : 1
+  }, {
+    "id" : 118,
+    "name" : "JETT",
+    "gameHours" : 19,
+    "numberGames" : 95,
+    "playerId" : 1
+  }, {
+    "id" : 119,
+    "name" : "DESTROYER",
+    "gameHours" : 339,
+    "numberGames" : 9,
+    "playerId" : 1
+  } ],
+  "location" : {
+    "country" : "ESTONIA",
+    "port" : 889,
+    "playerId" : 1
+  }
+}, {
+  "playerId" : 2,
+  "nickname" : "Player_2",
+  "skins" : [ {
+    "id" : 221,
+    "name" : "WATER",
+    "cost" : 11691,
+    "playerId" : 2
+  }, {
+    "id" : 222,
+    "name" : "VALOR",
+    "cost" : 14010,
+    "playerId" : 2
+  }, {
+    "id" : 223,
+    "name" : "DREAMS",
+    "cost" : 12655,
+    "playerId" : 2
+  }, {
+    "id" : 224,
+    "name" : "SPIDER",
+    "cost" : 14116,
+    "playerId" : 2
+  }, {
+    "id" : 225,
+    "name" : "VALOR",
+    "cost" : 2530,
+    "playerId" : 2
+  }, {
+    "id" : 226,
+    "name" : "VALOR",
+    "cost" : 19361,
+    "playerId" : 2
+  }, {
+    "id" : 227,
+    "name" : "SPIDER",
+    "cost" : 19196,
+    "playerId" : 2
+  } ],
+  "gameHistory" : [ {
+    "id" : 221,
+    "kill" : 23,
+    "deaths" : 41,
+    "assists" : 15,
+    "playerId" : 2
+  }, {
+    "id" : 222,
+    "kill" : 14,
+    "deaths" : 12,
+    "assists" : 30,
+    "playerId" : 2
+  }, {
+    "id" : 223,
+    "kill" : 20,
+    "deaths" : 40,
+    "assists" : 37,
+    "playerId" : 2
+  }, {
+    "id" : 224,
+    "kill" : 40,
+    "deaths" : 44,
+    "assists" : 46,
+    "playerId" : 2
+  }, {
+    "id" : 225,
+    "kill" : 15,
+    "deaths" : 31,
+    "assists" : 28,
+    "playerId" : 2
+  } ],
+  "agents" : [ {
+    "id" : 221,
+    "name" : "BRIMSTONE",
+    "gameHours" : 780,
+    "numberGames" : 146,
+    "playerId" : 2
+  }, {
+    "id" : 222,
+    "name" : "VIPER",
+    "gameHours" : 453,
+    "numberGames" : 464,
+    "playerId" : 2
+  }, {
+    "id" : 223,
+    "name" : "DANCER",
+    "gameHours" : 726,
+    "numberGames" : 241,
+    "playerId" : 2
+  }, {
+    "id" : 224,
+    "name" : "JETT",
+    "gameHours" : 413,
+    "numberGames" : 479,
+    "playerId" : 2
+  }, {
+    "id" : 225,
+    "name" : "SKYE",
+    "gameHours" : 160,
+    "numberGames" : 41,
+    "playerId" : 2
+  } ],
+  "location" : {
+    "country" : "INDONESIA",
+    "port" : 969,
+    "playerId" : 2
+  }
+}, {
+  "playerId" : 3,
+  "nickname" : "Player_3",
+  "skins" : [ {
+    "id" : 331,
+    "name" : "VALOR",
+    "cost" : 4097,
+    "playerId" : 3
+  }, {
+    "id" : 332,
+    "name" : "FEAR",
+    "cost" : 19049,
+    "playerId" : 3
+  }, {
+    "id" : 333,
+    "name" : "PARANORMAL",
+    "cost" : 2246,
+    "playerId" : 3
+  }, {
+    "id" : 334,
+    "name" : "WATER",
+    "cost" : 19147,
+    "playerId" : 3
+  }, {
+    "id" : 335,
+    "name" : "PARANORMAL",
+    "cost" : 18647,
+    "playerId" : 3
+  } ],
+  "gameHistory" : [ {
+    "id" : 331,
+    "kill" : 0,
+    "deaths" : 41,
+    "assists" : 21,
+    "playerId" : 3
+  }, {
+    "id" : 332,
+    "kill" : 47,
+    "deaths" : 1,
+    "assists" : 46,
+    "playerId" : 3
+  }, {
+    "id" : 333,
+    "kill" : 3,
+    "deaths" : 17,
+    "assists" : 13,
+    "playerId" : 3
+  }, {
+    "id" : 334,
+    "kill" : 34,
+    "deaths" : 9,
+    "assists" : 14,
+    "playerId" : 3
+  } ],
+  "agents" : [ {
+    "id" : 331,
+    "name" : "CHESS",
+    "gameHours" : 300,
+    "numberGames" : 235,
+    "playerId" : 3
+  }, {
+    "id" : 332,
+    "name" : "ROOK",
+    "gameHours" : 550,
+    "numberGames" : 284,
+    "playerId" : 3
+  }, {
+    "id" : 333,
+    "name" : "SOVA",
+    "gameHours" : 590,
+    "numberGames" : 40,
+    "playerId" : 3
+  } ],
+  "location" : {
+    "country" : "INDONESIA",
+    "port" : 432,
+    "playerId" : 3
+  }
+}, {
+  "playerId" : 4,
+  "nickname" : "Player_4",
+  "skins" : [ {
+    "id" : 441,
+    "name" : "FEAR",
+    "cost" : 18711,
+    "playerId" : 4
+  }, {
+    "id" : 442,
+    "name" : "PARANORMAL",
+    "cost" : 19768,
+    "playerId" : 4
+  }, {
+    "id" : 443,
+    "name" : "SPIDER",
+    "cost" : 3628,
+    "playerId" : 4
+  }, {
+    "id" : 444,
+    "name" : "PARANORMAL",
+    "cost" : 17784,
+    "playerId" : 4
+  }, {
+    "id" : 445,
+    "name" : "DREAMS",
+    "cost" : 15938,
+    "playerId" : 4
+  }, {
+    "id" : 446,
+    "name" : "PARANORMAL",
+    "cost" : 3139,
+    "playerId" : 4
+  }, {
+    "id" : 447,
+    "name" : "VALOR",
+    "cost" : 4184,
+    "playerId" : 4
+  } ],
+  "gameHistory" : [ {
+    "id" : 441,
+    "kill" : 23,
+    "deaths" : 0,
+    "assists" : 11,
+    "playerId" : 4
+  }, {
+    "id" : 442,
+    "kill" : 34,
+    "deaths" : 19,
+    "assists" : 16,
+    "playerId" : 4
+  }, {
+    "id" : 443,
+    "kill" : 47,
+    "deaths" : 40,
+    "assists" : 26,
+    "playerId" : 4
+  }, {
+    "id" : 444,
+    "kill" : 28,
+    "deaths" : 13,
+    "assists" : 41,
+    "playerId" : 4
+  } ],
+  "agents" : [ {
+    "id" : 441,
+    "name" : "SKYE",
+    "gameHours" : 157,
+    "numberGames" : 438,
+    "playerId" : 4
+  } ],
+  "location" : {
+    "country" : "ISRAEL",
+    "port" : 664,
+    "playerId" : 4
+  }
+}, {
+  "playerId" : 5,
+  "nickname" : "Player_5",
+  "skins" : [ {
+    "id" : 551,
+    "name" : "SPIDER",
+    "cost" : 3060,
+    "playerId" : 5
+  }, {
+    "id" : 552,
+    "name" : "WATER",
+    "cost" : 10857,
+    "playerId" : 5
+  }, {
+    "id" : 553,
+    "name" : "PARANORMAL",
+    "cost" : 6418,
+    "playerId" : 5
+  } ],
+  "gameHistory" : [ {
+    "id" : 551,
+    "kill" : 0,
+    "deaths" : 20,
+    "assists" : 33,
+    "playerId" : 5
+  }, {
+    "id" : 552,
+    "kill" : 19,
+    "deaths" : 20,
+    "assists" : 25,
+    "playerId" : 5
+  }, {
+    "id" : 553,
+    "kill" : 1,
+    "deaths" : 17,
+    "assists" : 14,
+    "playerId" : 5
+  }, {
+    "id" : 554,
+    "kill" : 29,
+    "deaths" : 35,
+    "assists" : 1,
+    "playerId" : 5
+  }, {
+    "id" : 555,
+    "kill" : 38,
+    "deaths" : 42,
+    "assists" : 45,
+    "playerId" : 5
+  }, {
+    "id" : 556,
+    "kill" : 34,
+    "deaths" : 9,
+    "assists" : 18,
+    "playerId" : 5
+  } ],
+  "agents" : [ {
+    "id" : 551,
+    "name" : "SKYE",
+    "gameHours" : 518,
+    "numberGames" : 212,
+    "playerId" : 5
+  }, {
+    "id" : 552,
+    "name" : "BRIMSTONE",
+    "gameHours" : 354,
+    "numberGames" : 341,
+    "playerId" : 5
+  }, {
+    "id" : 553,
+    "name" : "BRIMSTONE",
+    "gameHours" : 547,
+    "numberGames" : 495,
+    "playerId" : 5
+  }, {
+    "id" : 554,
+    "name" : "OMEN",
+    "gameHours" : 218,
+    "numberGames" : 98,
+    "playerId" : 5
+  }, {
+    "id" : 555,
+    "name" : "FINKA",
+    "gameHours" : 337,
+    "numberGames" : 241,
+    "playerId" : 5
+  } ],
+  "location" : {
+    "country" : "PANAMA",
+    "port" : 821,
+    "playerId" : 5
+  }
+}, {
+  "playerId" : 6,
+  "nickname" : "Player_6",
+  "skins" : [ {
+    "id" : 661,
+    "name" : "WATER",
+    "cost" : 641,
+    "playerId" : 6
+  }, {
+    "id" : 662,
+    "name" : "SPIDER",
+    "cost" : 16678,
+    "playerId" : 6
+  }, {
+    "id" : 663,
+    "name" : "WATER",
+    "cost" : 5508,
+    "playerId" : 6
+  }, {
+    "id" : 664,
+    "name" : "PARANORMAL",
+    "cost" : 17190,
+    "playerId" : 6
+  }, {
+    "id" : 665,
+    "name" : "VALOR",
+    "cost" : 13183,
+    "playerId" : 6
+  }, {
+    "id" : 666,
+    "name" : "PARANORMAL",
+    "cost" : 11683,
+    "playerId" : 6
+  }, {
+    "id" : 667,
+    "name" : "WATER",
+    "cost" : 8822,
+    "playerId" : 6
+  } ],
+  "gameHistory" : [ {
+    "id" : 661,
+    "kill" : 48,
+    "deaths" : 47,
+    "assists" : 36,
+    "playerId" : 6
+  }, {
+    "id" : 662,
+    "kill" : 2,
+    "deaths" : 34,
+    "assists" : 20,
+    "playerId" : 6
+  }, {
+    "id" : 663,
+    "kill" : 2,
+    "deaths" : 28,
+    "assists" : 22,
+    "playerId" : 6
+  }, {
+    "id" : 664,
+    "kill" : 3,
+    "deaths" : 39,
+    "assists" : 30,
+    "playerId" : 6
+  }, {
+    "id" : 665,
+    "kill" : 46,
+    "deaths" : 17,
+    "assists" : 15,
+    "playerId" : 6
+  } ],
+  "agents" : [ {
+    "id" : 661,
+    "name" : "DANCER",
+    "gameHours" : 221,
+    "numberGames" : 271,
+    "playerId" : 6
+  }, {
+    "id" : 662,
+    "name" : "ROOK",
+    "gameHours" : 318,
+    "numberGames" : 34,
+    "playerId" : 6
+  }, {
+    "id" : 663,
+    "name" : "ROOK",
+    "gameHours" : 802,
+    "numberGames" : 279,
+    "playerId" : 6
+  }, {
+    "id" : 664,
+    "name" : "FINKA",
+    "gameHours" : 141,
+    "numberGames" : 69,
+    "playerId" : 6
+  }, {
+    "id" : 665,
+    "name" : "JETT",
+    "gameHours" : 833,
+    "numberGames" : 307,
+    "playerId" : 6
+  }, {
+    "id" : 666,
+    "name" : "SOVA",
+    "gameHours" : 593,
+    "numberGames" : 411,
+    "playerId" : 6
+  }, {
+    "id" : 667,
+    "name" : "CHESS",
+    "gameHours" : 262,
+    "numberGames" : 216,
+    "playerId" : 6
+  } ],
+  "location" : {
+    "country" : "BRAZIL",
+    "port" : 353,
+    "playerId" : 6
+  }
+}, {
+  "playerId" : 7,
+  "nickname" : "Player_7",
+  "skins" : [ {
+    "id" : 771,
+    "name" : "DREAMS",
+    "cost" : 6578,
+    "playerId" : 7
+  } ],
+  "gameHistory" : [ {
+    "id" : 771,
+    "kill" : 26,
+    "deaths" : 26,
+    "assists" : 9,
+    "playerId" : 7
+  }, {
+    "id" : 772,
+    "kill" : 21,
+    "deaths" : 25,
+    "assists" : 3,
+    "playerId" : 7
+  }, {
+    "id" : 773,
+    "kill" : 43,
+    "deaths" : 14,
+    "assists" : 45,
+    "playerId" : 7
+  }, {
+    "id" : 774,
+    "kill" : 15,
+    "deaths" : 49,
+    "assists" : 7,
+    "playerId" : 7
+  } ],
+  "agents" : [ {
+    "id" : 771,
+    "name" : "DESTROYER",
+    "gameHours" : 715,
+    "numberGames" : 196,
+    "playerId" : 7
+  }, {
+    "id" : 772,
+    "name" : "SOVA",
+    "gameHours" : 997,
+    "numberGames" : 9,
+    "playerId" : 7
+  } ],
+  "location" : {
+    "country" : "INDONESIA",
+    "port" : 471,
+    "playerId" : 7
+  }
+}, {
+  "playerId" : 8,
+  "nickname" : "Player_8",
+  "skins" : [ {
+    "id" : 881,
+    "name" : "VALOR",
+    "cost" : 4140,
+    "playerId" : 8
+  }, {
+    "id" : 882,
+    "name" : "VALOR",
+    "cost" : 14449,
+    "playerId" : 8
+  } ],
+  "gameHistory" : [ {
+    "id" : 881,
+    "kill" : 17,
+    "deaths" : 36,
+    "assists" : 38,
+    "playerId" : 8
+  }, {
+    "id" : 882,
+    "kill" : 33,
+    "deaths" : 47,
+    "assists" : 27,
+    "playerId" : 8
+  }, {
+    "id" : 883,
+    "kill" : 42,
+    "deaths" : 17,
+    "assists" : 12,
+    "playerId" : 8
+  } ],
+  "agents" : [ {
+    "id" : 881,
+    "name" : "OMEN",
+    "gameHours" : 343,
+    "numberGames" : 372,
+    "playerId" : 8
+  }, {
+    "id" : 882,
+    "name" : "CHESS",
+    "gameHours" : 519,
+    "numberGames" : 284,
+    "playerId" : 8
+  }, {
+    "id" : 883,
+    "name" : "CYPHER",
+    "gameHours" : 920,
+    "numberGames" : 386,
+    "playerId" : 8
+  } ],
+  "location" : {
+    "country" : "INDONESIA",
+    "port" : 434,
+    "playerId" : 8
+  }
+}, {
+  "playerId" : 9,
+  "nickname" : "Player_9",
+  "skins" : [ {
+    "id" : 991,
+    "name" : "DREAMS",
+    "cost" : 17087,
+    "playerId" : 9
+  }, {
+    "id" : 992,
+    "name" : "PARANORMAL",
+    "cost" : 2541,
+    "playerId" : 9
+  }, {
+    "id" : 993,
+    "name" : "SPIDER",
+    "cost" : 13450,
+    "playerId" : 9
+  }, {
+    "id" : 994,
+    "name" : "VALOR",
+    "cost" : 13675,
+    "playerId" : 9
+  }, {
+    "id" : 995,
+    "name" : "DREAMS",
+    "cost" : 18983,
+    "playerId" : 9
+  }, {
+    "id" : 996,
+    "name" : "WATER",
+    "cost" : 6044,
+    "playerId" : 9
+  }, {
+    "id" : 997,
+    "name" : "WATER",
+    "cost" : 1687,
+    "playerId" : 9
+  } ],
+  "gameHistory" : [ {
+    "id" : 991,
+    "kill" : 18,
+    "deaths" : 3,
+    "assists" : 24,
+    "playerId" : 9
+  }, {
+    "id" : 992,
+    "kill" : 19,
+    "deaths" : 13,
+    "assists" : 42,
+    "playerId" : 9
+  } ],
+  "agents" : [ ],
+  "location" : {
+    "country" : "PANAMA",
+    "port" : 541,
+    "playerId" : 9
+  }
+}, {
+  "playerId" : 10,
+  "nickname" : "Player_10",
+  "skins" : [ {
+    "id" : 1101,
+    "name" : "PARANORMAL",
+    "cost" : 6905,
+    "playerId" : 10
+  }, {
+    "id" : 1102,
+    "name" : "PARANORMAL",
+    "cost" : 6672,
+    "playerId" : 10
+  }, {
+    "id" : 1103,
+    "name" : "FEAR",
+    "cost" : 18706,
+    "playerId" : 10
+  }, {
+    "id" : 1104,
+    "name" : "SPIDER",
+    "cost" : 4382,
+    "playerId" : 10
+  }, {
+    "id" : 1105,
+    "name" : "VALOR",
+    "cost" : 3679,
+    "playerId" : 10
+  }, {
+    "id" : 1106,
+    "name" : "FEAR",
+    "cost" : 5738,
+    "playerId" : 10
+  }, {
+    "id" : 1107,
+    "name" : "VALOR",
+    "cost" : 8535,
+    "playerId" : 10
+  }, {
+    "id" : 1108,
+    "name" : "SPIDER",
+    "cost" : 16910,
+    "playerId" : 10
+  } ],
+  "gameHistory" : [ {
+    "id" : 1101,
+    "kill" : 48,
+    "deaths" : 34,
+    "assists" : 36,
+    "playerId" : 10
+  }, {
+    "id" : 1102,
+    "kill" : 37,
+    "deaths" : 27,
+    "assists" : 45,
+    "playerId" : 10
+  }, {
+    "id" : 1103,
+    "kill" : 48,
+    "deaths" : 32,
+    "assists" : 46,
+    "playerId" : 10
+  }, {
+    "id" : 1104,
+    "kill" : 43,
+    "deaths" : 40,
+    "assists" : 0,
+    "playerId" : 10
+  }, {
+    "id" : 1105,
+    "kill" : 21,
+    "deaths" : 4,
+    "assists" : 30,
+    "playerId" : 10
+  }, {
+    "id" : 1106,
+    "kill" : 2,
+    "deaths" : 36,
+    "assists" : 6,
+    "playerId" : 10
+  } ],
+  "agents" : [ {
+    "id" : 1101,
+    "name" : "CYPHER",
+    "gameHours" : 400,
+    "numberGames" : 132,
+    "playerId" : 10
+  }, {
+    "id" : 1102,
+    "name" : "SOVA",
+    "gameHours" : 403,
+    "numberGames" : 135,
+    "playerId" : 10
+  }, {
+    "id" : 1103,
+    "name" : "SKYE",
+    "gameHours" : 28,
+    "numberGames" : 311,
+    "playerId" : 10
+  }, {
+    "id" : 1104,
+    "name" : "SOVA",
+    "gameHours" : 33,
+    "numberGames" : 53,
+    "playerId" : 10
+  } ],
+  "location" : {
+    "country" : "BRAZIL",
+    "port" : 467,
+    "playerId" : 10
+  }
+} ]

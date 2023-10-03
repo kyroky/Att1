@@ -1,0 +1,5 @@
+rootProject.name = 'Matvey_att_1'
+include 'file_manager'
+include 'generator'
+include 'model'
+
